@@ -2,7 +2,7 @@
 
 ## Description
 
-Unshelve is a web app that lets you leave your experiences from a book you have read and also find out where the nearest bookstore is to find your next book!
+Unshelve is a web app where you can share your experiences and find out your nearest bookstore with your next book!
 
 ### Technologies Used
 
@@ -12,12 +12,13 @@ For this project the technologies and tools used were:
 - SASS
 - NPM
 - Cypress
+- Figma (UI/UX Design)
 
 #
 
 ## Installation
 
-As this project runs with Bootstrap and Cypress you will have to have NPM or anything similar and then run this little code snippet on the CLI.
+As this project runs with Cypress you will have to have NPM or anything similar and then run this little code snippet on the CLI.
 
 ```
 npm install
